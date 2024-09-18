@@ -3,7 +3,7 @@
 Eg heiter Johan Tryti og er ein ferdig utdanna dataingeniør (bachelor) som søker jobb. 
 
 - 🖥️ Eg har hoduvsakleg koda i Pyhon og Java.
-- 🤓 Trivst med programmering, særleg backend, syns statikk er kult.
+- 🤓 Trivst med programmering, særleg backend, trivst med kontinuerlig læring og utvikling. 
 - 🎓 MsC i Radioøkologi, BsC i Kjemi i tillegg til BsC i dataingeniør.
 
 ## Eksempel på prosjekt eg har jobba med:

@@ -6,7 +6,7 @@ Eg heiter Johan Tryti og er ein ferdig utdanna dataingeniør (bachelor) som søk
 - 🤓 Trivst med programmering, særleg backend, syns statikk er kult.
 - 🎓 MsC i Radioøkologi, BsC i Kjemi i tillegg til BsC i dataingeniør.
 
-## Prosjekt eg har jobba med:
+## Eksempel på prosjekt eg har jobba med:
 
 - Komplett nettside med CRUD og bygd på MVC (Model View Controller) - rammeverket ([link](https://github.com/N4h0/Forum)) med [tilsvarande versjon som bruker angular](https://github.com/PetterHalsne/ForumAngularVersion).
 - Fullstendig Client Side Rendering nettside for eit regnskapsfirma ([link](https://github.com/N4h0/Bachelor_Hosting)).

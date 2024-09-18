@@ -1,6 +1,6 @@
 ## Hallo :-)
 
-Eg heiter Johan Tryti og er ein ferdig utdanna dataingeniør (bachelor) som søker jobb. 
+Eg er ein ferdig utdanna dataingeniør (bachelor) som søker jobb. 
 
 - 🖥️ Eg har hoduvsakleg koda i Pyhon og Java.
 - 🤓 Trivst med programmering, særleg backend, trivst med kontinuerlig læring og utvikling. 

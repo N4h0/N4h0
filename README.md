@@ -3,6 +3,7 @@
 Eg er ein ferdig utdanna dataingeniør (bachelor) som søker jobb. 
 
 - 🖥️ Eg har hoduvsakleg koda i Pyhon og Java.
+- 🕷️Mykje erfaring med webutvikling, inkludert javascript/typescript, react, angular og server-side databaseintegrasjon.
 - 🤓 Trivst med programmering, særleg backend, trivst med kontinuerlig læring og utvikling. 
 - 🎓 MsC i Radioøkologi, BsC i Kjemi i tillegg til BsC i dataingeniør.
 

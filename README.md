@@ -1,18 +1,19 @@
-## Hallo :-)
+## Hello :-)
 
-Eg er ein ferdig utdanna dataingeniør (bachelor) som søker jobb. 
+I am a recently graduated Computer Engineer (Bachelor’s) looking for job opportunities.
 
-- 🖥️ Eg har hoduvsakleg koda i Pyhon og Java.
-- 🕷️Mykje erfaring med webutvikling, inkludert javascript/typescript, react, angular og server-side databaseintegrasjon.
-- 🤓 Trivst med programmering, kontinuerlig læring og utvikling. 
-- 🎓 MsC i Radioøkologi, BsC i Kjemi i tillegg til BsC i dataingeniør.
+- 🖥️ My main programming experience is with Python and Java.
+- 🕷️ I have extensive experience in web development, including JavaScript/TypeScript, React, Angular, and server-side database integration.
+- 🤓 I enjoy programming, continuous learning, and development.
+- 🎓 I hold an M.Sc. in Radioecology and a B.Sc. in Chemistry, in addition to my B.Sc. in Computer Engineering.
 
-## Eksempel på prosjekt eg har jobba med:
+## Examples of projects I've worked on:
 
-- Komplett nettside med CRUD og bygd på MVC (Model View Controller) - rammeverket ([link](https://github.com/N4h0/Forum)) med [tilsvarande versjon som bruker angular](https://github.com/PetterHalsne/ForumAngularVersion).
-- Fullstendig Client Side Rendering nettside for eit regnskapsfirma ([link](https://github.com/N4h0/Bachelor_Hosting)).
-- Chatbot for nettsida nevnt over ([link](https://github.com/N4h0/ChatServer)) og testing av denne lokalt ([link](https://github.com/N4h0/Bachelor-AI-github)).
-- Protokoll for sending av data over eit simulert nettverk [(link)](https://github.com/Miskiyu/Portfolio-2-DATA2410-DRTP). 
+- Currently working on a website with MongoDB-interaction ([link]https://github.com/N4h0/MongoDBProject).
+- A complete website with CRUD functionality, built on an MVC (Model View Controller) framework ([link](https://github.com/N4h0/Forum)), plus a [corresponding version using Angular](https://github.com/PetterHalsne/ForumAngularVersion).
+- A fully client-side rendered website for an accounting firm ([link](https://github.com/N4h0/Bachelor_Hosting)).
+- A chatbot for the website mentioned above ([link](https://github.com/N4h0/ChatServer)), along with local testing of that chatbot ([link](https://github.com/N4h0/Bachelor-AI-github)).
+- A protocol for transmitting data over a simulated network ([link](https://github.com/Miskiyu/Portfolio-2-DATA2410-DRTP)).
 
 <!--
 **N4h0/N4h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

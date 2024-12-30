@@ -9,7 +9,7 @@ I am a recently graduated Computer Engineer (Bachelor’s) looking for job oppor
 
 ## Examples of projects I've worked on:
 
-- Currently working on a website with MongoDB-interaction ([link]https://github.com/N4h0/MongoDBProject).
+- Currently working on a website with MongoDB-interaction ([link](https://github.com/N4h0/MongoDBProject)).
 - A complete website with CRUD functionality, built on an MVC (Model View Controller) framework ([link](https://github.com/N4h0/Forum)), plus a [corresponding version using Angular](https://github.com/PetterHalsne/ForumAngularVersion).
 - A fully client-side rendered website for an accounting firm ([link](https://github.com/N4h0/Bachelor_Hosting)).
 - A chatbot for the website mentioned above ([link](https://github.com/N4h0/ChatServer)), along with local testing of that chatbot ([link](https://github.com/N4h0/Bachelor-AI-github)).

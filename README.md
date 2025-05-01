@@ -14,7 +14,7 @@ I am a recently graduated Computer Engineer (Bachelor’s) looking for job oppor
 - A chatbot for the website mentioned above ([link](https://github.com/N4h0/ChatServer)), along with local testing of that chatbot ([link](https://github.com/N4h0/Bachelor-AI-github)).
 - A protocol for transmitting data over a simulated network ([link](https://github.com/Miskiyu/Portfolio-2-DATA2410-DRTP)).
 - A Chrome extension and local server that lets me add jobs to Google Sheets with one click — complete with an LLM-generated CV and cover letter. If you're a recruiter reading this: I hope you appreaciate the honesty, and I do of course edit them manually afterwards. Also includes customizable settings ([link](https://github.com/N4h0/Job-Helper)).
-- A very basic react website complete CRUD towards a MongoDB database ([link](https://github.com/N4h0/MongoDBProject)).
+- A very basic react website with complete CRUD towards a MongoDB database ([link](https://github.com/N4h0/MongoDBProject)).
 
 <!--
 **N4h0/N4h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

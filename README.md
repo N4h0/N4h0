@@ -14,6 +14,7 @@ I am a recently graduated Computer Engineer (Bachelor’s) looking for job oppor
 - A fully client-side rendered website for an accounting firm ([link](https://github.com/N4h0/Bachelor_Hosting)).
 - A chatbot for the website mentioned above ([link](https://github.com/N4h0/ChatServer)), along with local testing of that chatbot ([link](https://github.com/N4h0/Bachelor-AI-github)).
 - A protocol for transmitting data over a simulated network ([link](https://github.com/Miskiyu/Portfolio-2-DATA2410-DRTP)).
+- A chrome extention and local server which adds jobs to my google sheets with LLM-generated CV and cover letter with the click of a button. Includes functionality like changing settings etc ([link](https://github.com/N4h0/Job-Helper).
 
 <!--
 **N4h0/N4h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

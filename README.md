@@ -2,10 +2,11 @@
 
 I am a recently graduated Computer Engineer (Bachelor’s) looking for job opportunities.
 
-- 🖥️ My main programming languages are with Python and JavaScript.
-- 🕷️ I've focused heavily on web development, including JavaScript/TypeScript, React, Angular, .Net and server-side database integration.
-- 🤓 I enjoy programming, continuous learning, and development.
-- 🎓 I hold an M.Sc. in Radioecology and a B.Sc. in Chemistry, in addition to my B.Sc. in Computer Engineering.
+- 🖥️ I'm a developer currently looking for a job.
+- 🕷️ My focus has been on web development — especially JavaScript/TypeScript, React, Angular, .NET, and backend integration with databases.
+- ⚙️ I particularly enjoy backend development and building systems that actually do stuff.
+- 🤓 I’m passionate about programming, learning new things, and solving weird problems.
+- 🎓 I hold a B.Sc. in Computer Engineering, as well as degrees in Chemistry (B.Sc.) and Radioecology (M.Sc.)
 
 ## Examples of projects I've worked on:
 

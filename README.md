@@ -2,7 +2,7 @@
 
 I am a recently graduated Computer Engineer (Bachelor’s) looking for job opportunities.
 
-- 🖥️ My main programming languages are with Python and Java.
+- 🖥️ My main programming languages are with Python and JavaScript.
 - 🕷️ I've focused heavily on web development, including JavaScript/TypeScript, React, Angular, .Net and server-side database integration.
 - 🤓 I enjoy programming, continuous learning, and development.
 - 🎓 I hold an M.Sc. in Radioecology and a B.Sc. in Chemistry, in addition to my B.Sc. in Computer Engineering.

@@ -2,11 +2,11 @@
 
 I am a recently graduated Computer Engineer (Bachelor’s) looking for job opportunities.
 
-- 🖥️ I'm a developer currently looking for a job.
-- 🕷️ My focus has been on web development — especially JavaScript/TypeScript, React, Angular, .NET, and backend integration with databases.
-- ⚙️ I particularly enjoy backend development and building systems that actually do stuff.
-- 🤓 I’m passionate about programming, learning new things, and solving weird problems.
-- 🎓 I hold a B.Sc. in Computer Engineering, as well as degrees in Chemistry (B.Sc.) and Radioecology (M.Sc.)
+- 🕷️ **Full-stack web development** — JavaScript/TypeScript, React, Angular, .NET and backend integration with SQL & NoSQL databases  
+- 🐍 **Data analysis & backend engineering** — Python (Pandas, PyTorch), SQL, MongoDB
+- 📊 **Data modelling & visualization** — a lot of experience in statistics and visualization from my Chemistry bachground
+- 🤓 Always enjoy learning new technology
+- 🎓 Academic background in Computer Engineering (B.Sc.), Chemistry (B.Sc.) and Radioecology (M.Sc.)
 
 ## Examples of projects I've worked on:
 

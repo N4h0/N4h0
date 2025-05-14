@@ -14,7 +14,7 @@ I am a recently graduated Computer Engineer (Bachelor’s) looking for job oppor
 - A fully client-side rendered website for an accounting firm ([link](https://github.com/N4h0/Bachelor_Hosting)).
 - A chatbot for the website mentioned above ([link](https://github.com/N4h0/ChatServer)), along with local testing of that chatbot ([link](https://github.com/N4h0/Bachelor-AI-github)).
 - A protocol for transmitting data over a simulated network ([link](https://github.com/Miskiyu/Portfolio-2-DATA2410-DRTP)).
-- A Chrome extension and local server that lets me add jobs to Google Sheets with one click — complete with an option to create LLM-generated CV and cover letter. If you're a recruiter reading this: I hope you appreaciate the honesty, and I do of course edit them manually afterwards if I use the feature. Also includes customizable settings ([link](https://github.com/N4h0/Job-Helper)).
+- A Chrome extension and local server that lets me add jobs to Google Sheets with one click — complete with an option to create LLM-generated CV and cover letter. Also includes customizable settings ([link](https://github.com/N4h0/Job-Helper)).
 - A very basic react website with complete CRUD towards a MongoDB database ([link](https://github.com/N4h0/MongoDBProject)).
 
 <!--

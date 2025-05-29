@@ -1,6 +1,6 @@
 ## Hello :-)
 
-I am a recently graduated Computer Engineer (Bachelor’s) looking for job opportunities.
+I am a recently graduated Computer Engineer (Bachelor’s) looking for job opportunities. Examples of what I've worked with:
 
 - 🕷️ **Full-stack web development** — JavaScript/TypeScript, React, Angular, .NET and backend integration with SQL & NoSQL databases  
 - 🐍 **Data analysis & backend engineering** — Python (Pandas, PyTorch), SQL, MongoDB

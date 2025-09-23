@@ -12,7 +12,6 @@ I am a recently graduated Computer Engineer (Bachelor’s). Examples of what I'v
 
 - A complete website with CRUD functionality, built on an MVC (Model View Controller) framework ([link](https://github.com/N4h0/Forum)), plus a [corresponding version using Angular](https://github.com/PetterHalsne/ForumAngularVersion).
 - A fully client-side rendered website for an accounting firm ([link](https://github.com/N4h0/Bachelor_Hosting)).
-- A chatbot for the website mentioned above ([link](https://github.com/N4h0/ChatServer)), along with local testing of that chatbot ([link](https://github.com/N4h0/Bachelor-AI-github)).
 - A protocol for transmitting data over a simulated network ([link](https://github.com/Miskiyu/Portfolio-2-DATA2410-DRTP)).
 - A very basic react website with complete CRUD towards a MongoDB database ([link](https://github.com/N4h0/MongoDBProject)).
 - A Chrome extension and local server that lets me add jobs to Google Sheets with one click — complete with an option to create LLM-generated CV and cover letter ([link](https://github.com/N4h0/Job-Helper)). My current project is to turn this into a complete webpage using Svelte, SvelteKit, MongoDB, hosting on Vercel and a server running on fly.io to compile my .tex files into CV.pdf. 
